@@ -5,4 +5,6 @@ int main(void) {
     //git pull origin main
     //git commit -am "mensaje"
     //git push origin main
+
+    printf("Cerrar ventana");
 }
